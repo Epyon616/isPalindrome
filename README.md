@@ -17,3 +17,5 @@ The idea being that you write a script that could check various inputs and retur
 
 **Note**: At present this code does not handle date objects, as we know some dates can be palindromes when formatted correctly however I feel like if you're passing a date object into the method it should probably throw an error, but I need to think on this a bit more.
 
+**TODO**: handle throwing an exception if passed an array or object
+
